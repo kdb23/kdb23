@@ -1,4 +1,14 @@
-### Hi there 👋
+### 👋 HI I'm Kimberly
+
+Im a fresh off the bootcamp full stack software engineer with a sprinkle of over six years of experience in the medical field.
+
+Languages:
+Python
+JavaScript
+React
+SQL/SQLite3
+HTML
+CSS
 
 <!--
 **kdb23/kdb23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
