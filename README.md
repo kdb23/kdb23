@@ -1,26 +1,16 @@
-### 👋 HI I'm Kimberly
+### 👋 HI I'm Kimberly --- sorry guys this section is work in progress --- please excuse the mess while I'm working
 
-Im a fresh off the bootcamp full stack software engineer with a sprinkle of over six years of experience in the medical field.
+Im a Software Engineer with a dash of experience in the medical field.
 
 Languages:
-Python
-JavaScript
-React
-SQL/SQLite3
-HTML
+Python, 
+JavaScript, 
+React, 
+SQL/SQLite3, 
+HTML, 
 CSS
 
-<!--
-**kdb23/kdb23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Full Stack Application for a local church that allows the pastoral staff quick and easy access to member information; such as phone number, addresses, family members, and prayer requests. 
+- 🌱 I’m currently learning React Native 
+- 📫 How to reach me: <linkedin, Email, portfolio site>
+- ⚡ Fun fact: I love spending time surrounded by nature with my four legged best friend, Max, while reading the latest NY Bestseller Book. 
