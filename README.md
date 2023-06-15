@@ -1,8 +1,9 @@
 ### 👋 HI I'm Kimberly --- sorry guys this section is work in progress --- please excuse the mess while I'm working
 
-Im a Software Engineer with a dash of experience in the medical field, bitten by the Wonderlust Bug in early 2019 and havent looked back. 
+Im a Software Engineer with a dash of experience in the medical field, bitten by the Wonderlust Bug.![UNCOR](https://github.com/kdb23/kdb23/assets/121531138/80093cd0-7964-43fa-85a0-20bc57b1d52f)
 
-![workAttire](https://github.com/kdb23/kdb23/assets/121531138/8d0430a5-1926-4365-a5dc-fc437d069ae0)
+
+
 
 
 
