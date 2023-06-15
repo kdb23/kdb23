@@ -1,8 +1,10 @@
 ### 👋 HI I'm Kimberly --- sorry guys this section is work in progress --- please excuse the mess while I'm working
 
-Im a Software Engineer with a dash of experience in the medical field, bitten by the Wonderlust Bug.![UNCOR](https://github.com/kdb23/kdb23/assets/121531138/80093cd0-7964-43fa-85a0-20bc57b1d52f)
+Im a Software Engineer with a dash of experience in the medical field, bitten by the Wonderlust Bug.
 
 
+
+![grandCanyon](https://github.com/kdb23/kdb23/assets/121531138/9b9349bf-5153-4585-af22-6ef4bd3c36a8)
 
 
 
