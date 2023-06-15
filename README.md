@@ -1,6 +1,9 @@
 ### 👋 HI I'm Kimberly --- sorry guys this section is work in progress --- please excuse the mess while I'm working
 
-Im a Software Engineer with a dash of experience in the medical field.
+Im a Software Engineer with a dash of experience in the medical field and have been bitten by the Wonderlust Bug in early 2019 and havent looked back. 
+![templeOfTheMoon](https://github.com/kdb23/kdb23/assets/121531138/d7e3af97-7b24-4dd1-a209-4a05b47b8368)
+
+
 
 Languages:
 Python, 
@@ -9,6 +12,8 @@ React,
 SQL/SQLite3, 
 HTML, 
 CSS
+
+
 
 - 🔭 I’m currently working on Full Stack Application for a local church that allows the pastoral staff quick and easy access to member information; such as phone number, addresses, family members, and prayer requests. 
 - 🌱 I’m currently learning React Native 
