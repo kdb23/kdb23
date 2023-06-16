@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Full Stack Application for a local church that allows the pastoral staff quick and easy access to member information; such as phone number, addresses, family members, and prayer requests. 
 - 🌱 I’m currently learning React Native on ios 
-- 📫 How to reach me: [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+- 📫 How to reach me: 
 - 📝 I regularly post on Medium
 - 👩🏻‍💻 Previous Expereince Here
 - ⚡ Fun fact: I love spending time surrounded by nature with my four legged best friend, Max🐾, while reading the latest NY Bestseller Book. 
