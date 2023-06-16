@@ -8,7 +8,7 @@
 - 👩🏻‍💻 Previous Expereince Here
 - ⚡ Fun fact: I love spending time surrounded by nature with my four legged best friend, Max🐾, while reading the latest NY Bestseller Book. 
 
-Languages:
+Languages:<br>
 ![image](https://github.com/kdb23/kdb23/assets/121531138/c2fe8cb5-caa3-43a4-b593-1718985d87aa)
 ![image](https://github.com/kdb23/kdb23/assets/121531138/e949bd8c-32ad-4a3c-adf8-41807352bb05)
 ![image](https://github.com/kdb23/kdb23/assets/121531138/2268ff56-6781-4c5a-9163-536f161ffeb3)
@@ -27,7 +27,12 @@ Languages:
 
 Additional Ways to Connect: 
 
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kimberly.d.benton)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kimberly-d-benton/)
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kimberly.d.benton)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](http://www.gmail.com/kimberly.d.benton)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kdb0913/)
+[![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/wanderlustRN/)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>  -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/> -->
+<!-- ![Kimberly's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdb23&theme=dark&show_icons=true) -->
