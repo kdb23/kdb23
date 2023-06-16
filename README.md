@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Full Stack Application for a local church that allows the pastoral staff quick and easy access to member information; such as phone number, addresses, family members, and prayer requests. 
 - 🌱 I’m currently learning React Native on ios 
-- 📫 How to reach me: [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](http://www.gmail.com/kimberly.d.benton)
+- 📫 How to reach me: [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](http://www.gmail.com/kimberly.d.benton@gmail.com)
 - 📝 I regularly post on Medium
 - 👩🏻‍💻 Previous Expereince Here
 - ⚡ Fun fact: I love spending time surrounded by nature with my four legged best friend, Max🐾, while reading the latest NY Bestseller Book. 
@@ -29,7 +29,7 @@ Additional Ways to Connect:
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kimberly-d-benton/)
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kimberly.d.benton)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](http://www.gmail.com/kimberly.d.benton)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](http://www.gmail.com/kimberly.d.benton@gmail.com)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kdb0913/)
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/wanderlustRN/)
 
