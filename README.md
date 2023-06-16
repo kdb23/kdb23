@@ -1,5 +1,5 @@
 ![Software Engineer](https://github.com/kdb23/kdb23/assets/121531138/e3cb4edf-e3b2-434d-b3c2-6633d336328b)
-### 👋 HI I'm Kimberly --- sorry guys this section is work in progress
+### 👋 HI I'm Kimberly --- sorry yall this section is work in progress
 
 - 🔭 I’m currently working on Full Stack Application for a local church that allows the pastoral staff quick and easy access to member information; such as phone number, addresses, family members, and prayer requests. 
 - 🌱 I’m currently learning React Native on ios
