@@ -3,10 +3,10 @@
 
 - 🔭 I’m currently working on Full Stack Application for a local church that allows the pastoral staff quick and easy access to member information; such as phone number, addresses, family members, and prayer requests. 
 - 🌱 I’m currently learning React Native on ios 
-- 📫 How to reach me: 
-- 📝 I regularly post on Medium
+- 📫 How to reach me: [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://kimberly.d.benton@gmail.com)
+- 📝 I regularly post on [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kimberly.d.benton)
 - 👩🏻‍💻 Previous Expereince Here
-- ⚡ Fun fact: I love spending time surrounded by nature with my four legged best friend, Max🐾, while reading the latest NY Bestseller Book. 
+- ⚡ Fun fact: I love spending time surrounded by nature with my four legged best friend, Max🐾, while reading the latest Bestseller Book. 
 
 Languages:<br>
 ![image](https://github.com/kdb23/kdb23/assets/121531138/c2fe8cb5-caa3-43a4-b593-1718985d87aa)
@@ -36,5 +36,5 @@ Additional Ways to Connect:
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/wanderlustRN/)
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>  -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
 <!-- ![Kimberly's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdb23&theme=dark&show_icons=true) -->
