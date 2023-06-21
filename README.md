@@ -36,5 +36,5 @@ Additional Ways to Connect:
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/wanderlustRN/)
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>  -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/> -->
 
