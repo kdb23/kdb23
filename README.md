@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React Native on ios 
 - 📫 How to reach me: [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://kimberly.d.benton@gmail.com)
 - 📝 I regularly post on [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kimberly.d.benton)
-- 👩🏻‍💻 Previous Expereince Here
+- 👩🏻‍💻 Previous Expereince Here https://docs.google.com/document/d/1ceQEdmwjUw27Gi0ILTVModswQhu_7vzPFOfyrgmqWf8/edit?usp=sharing
 - ⚡ Fun fact: I love spending time surrounded by nature with my four legged best friend, Max🐾, while reading the latest Bestseller Book. 
 
 Languages:<br>
