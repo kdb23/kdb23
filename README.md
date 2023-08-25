@@ -6,7 +6,7 @@
 - 📫 How to reach me: [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://kimberly.d.benton@gmail.com)
 - 📝 I regularly post on [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kimberly.d.benton)
 - 👩🏻‍💻 Previous Expereince  [Here](https://docs.google.com/document/d/1ceQEdmwjUw27Gi0ILTVModswQhu_7vzPFOfyrgmqWf8/edit?usp=sharing)
-- ⚡ Fun fact: I love spending time surrounded by nature with my four legged best friend, Max🐾, while reading the latest Bestseller Book. 
+- ⚡ Fun fact: I love taking my four legged best friend, Max🐾, on hiking adventures. 
 
 Languages:<br>
 ![image](https://github.com/kdb23/kdb23/assets/121531138/c2fe8cb5-caa3-43a4-b593-1718985d87aa)
